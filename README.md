@@ -1,4 +1,4 @@
-# Retail
+# Land Registry System
 ![image](https://user-images.githubusercontent.com/72384869/211306582-99efc97d-20df-4b4d-b689-636de0f43a99.png)
 ![image](https://user-images.githubusercontent.com/72384869/211306627-fc1011d1-e603-4d9d-a9e0-3c392f602a1b.png)
 ![image](https://user-images.githubusercontent.com/72384869/211306655-b83a8cab-2b7d-4ebb-88d9-6145cdd97ae3.png)
